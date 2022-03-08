@@ -1,1 +1,1 @@
-FROM python:latest
+FROM alpine:3.4
